@@ -1,3 +1,4 @@
 # Homework 1
 Hello Professor
-Additional content
+## Introduction
+This repository contains the homework assignment for Git.
